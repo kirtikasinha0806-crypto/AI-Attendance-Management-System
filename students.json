@@ -1,0 +1,83 @@
+{
+  "date_range": {
+    "start": "2026-10-08",
+    "end": "2026-10-14"
+  },
+  "students": [
+    {
+      "name": "Aarav Sharma",
+      "roll_no": "101",
+      "days_present": 5,
+      "total_days": 7,
+      "attendance": {
+        "2026-10-08": "present",
+        "2026-10-09": "present",
+        "2026-10-10": "absent",
+        "2026-10-11": "present",
+        "2026-10-12": "present",
+        "2026-10-13": "absent",
+        "2026-10-14": "present"
+      }
+    },
+    {
+      "name": "Priya Verma",
+      "roll_no": "102",
+      "days_present": 6,
+      "total_days": 7,
+      "attendance": {
+        "2026-10-08": "present",
+        "2026-10-09": "present",
+        "2026-10-10": "present",
+        "2026-10-11": "present",
+        "2026-10-12": "absent",
+        "2026-10-13": "present",
+        "2026-10-14": "present"
+      }
+    },
+    {
+      "name": "Rohan Gupta",
+      "roll_no": "103",
+      "days_present": 5,
+      "total_days": 7,
+      "attendance": {
+        "2026-10-08": "absent",
+        "2026-10-09": "present",
+        "2026-10-10": "present",
+        "2026-10-11": "absent",
+        "2026-10-12": "present",
+        "2026-10-13": "present",
+        "2026-10-14": "present"
+      }
+    },
+    {
+      "name": "Ananya Singh",
+      "roll_no": "104",
+      "days_present": 5,
+      "total_days": 7,
+      "attendance": {
+        "2026-10-08": "present",
+        "2026-10-09": "absent",
+        "2026-10-10": "present",
+        "2026-10-11": "present",
+        "2026-10-12": "present",
+        "2026-10-13": "present",
+        "2026-10-14": "absent"
+      }
+    },
+    {
+      "name": "Kabir Patel",
+      "roll_no": "105",
+      "days_present": 5,
+      "total_days": 7,
+      "attendance": {
+        "2026-10-08": "present",
+        "2026-10-09": "present",
+        "2026-10-10": "absent",
+        "2026-10-11": "present",
+        "2026-10-12": "absent",
+        "2026-10-13": "present",
+        "2026-10-14": "present"
+      }
+    }
+  ]
+}
